@@ -39,6 +39,7 @@ This will execute all the tests using your local Chrome browser.
 ## Developer Installation
 
 To install the dependencies we use *brew* for mac. You can install it from here: <https://brew.sh/>
+
 To install the dependencies we use *chocolatey* for windows. You can install it from here: <https://chocolatey.org/>
 ### 1. Install git
 
